@@ -152,7 +152,8 @@ a {
     text-align: center; 
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 9%);
+    text-decoration: underline; 
 }
 main:hover .image {
     scale: 1.1;
