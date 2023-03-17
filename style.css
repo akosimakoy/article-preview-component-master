@@ -148,6 +148,12 @@ a {
     --scale: 1;
     visibility: visible;
 }
+.attribution { font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
 main:hover .image {
     scale: 1.1;
 }
